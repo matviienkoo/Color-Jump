@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: 41248713431eeb24ebf35682101ad37b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stork with Baby0001
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 665
+        width: 528
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39385474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef14ee03e4bf74fbab17fb2d01c32d
+      internalID: 2061806089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0002
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 665
+        width: 528
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39385474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b6424bd34eb9a4599637e7a650da92
+      internalID: -670584713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0003
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 665
+        width: 528
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39385474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faed1e5d63a7cd4db7afe1734d046d1
+      internalID: -1942296597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0004
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 665
+        width: 528
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39385474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83318495e516c84092d8884e02e652a
+      internalID: 1953928772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0005
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 321
+        width: 528
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40350878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d178ea0e8af9efc45a2e0ebade3758bc
+      internalID: 390869557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0006
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 321
+        width: 528
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40350878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a748286127fa394794cb91ddd683c5d
+      internalID: -911640420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0007
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 321
+        width: 528
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40350878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2525f25b5fc4c45ae1c33536c1869e
+      internalID: 1357781242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0008
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 321
+        width: 528
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40350878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5741ef5f9334ee540a09410fbb0d547e
+      internalID: 151542227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 528
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6642599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd38bc2b8d3e5a479962b37a513d9b7
+      internalID: -310396389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 528
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6642599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c456de824fa3cfb41b9cf1ceea470efa
+      internalID: 481018187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 528
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6642599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d26acfdf8e61f44b64f5f3c3d6229d
+      internalID: -2142240969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 528
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6642599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451f9c0bf5b748b4d8bf70cdbff3da31
+      internalID: -1614769455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0013
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 528
+        height: 317
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7003155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e636c114224e479812e37cb6390f8
+      internalID: -2040744839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0014
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 528
+        height: 317
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7003155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c16da373359e449e0ebfa0664a6e6
+      internalID: 1144385906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0015
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 528
+        height: 317
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7003155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c721bdc96bc3794cb237d478e4f281e
+      internalID: 1600321493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0016
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 528
+        height: 317
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7003155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33487842813d09c489e533d74b3d0724
+      internalID: -1561810133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0017
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 721
+        width: 528
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69536424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589f5c6642c057a47910efdbfaf59359
+      internalID: 1354978833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0018
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 721
+        width: 528
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69536424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffed89c3fda99a4e985b8905e3aef15
+      internalID: 1300397155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0019
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 721
+        width: 528
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69536424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb740e4a51ba05a46bfb802606bda0c3
+      internalID: -717914332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0020
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 721
+        width: 528
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69536424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36569362f10bceb498b546dd619e6f17
+      internalID: 368337131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0021
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 448
+        width: 528
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6678967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa873728d9ecaba4c8dd6c971e227e98
+      internalID: 474900867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0022
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 448
+        width: 528
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6678967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd88fce20c5f6c4da6c77a535d368c8
+      internalID: 1381738684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0023
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 448
+        width: 528
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6678967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f106752a4f624cb78f88abd6270a5
+      internalID: 1548805200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0024
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 448
+        width: 528
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6678967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6499ec745129f4547aa72f182102a8a0
+      internalID: 487573898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 528
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3816156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb641cca26d2a478db93aa0feb031e
+      internalID: 1566748267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 528
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3816156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56db63ba6adb12143a2db4823789803a
+      internalID: -1068940693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 528
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3816156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00fc8855611b5042b30b0690685be47
+      internalID: -1216454891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 528
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3816156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41272beb420769f48938784285a34716
+      internalID: -1742307968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 662
+        width: 528
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38504156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb1f1fbfae195749bf88b77421f743e
+      internalID: -73544293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 662
+        width: 528
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38504156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c2931d3423284ca5d556c509bd54b
+      internalID: 2139361726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 662
+        width: 528
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38504156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bb6490c3cafb141b65496907b7f969
+      internalID: 1155302684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork with Baby0032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 662
+        width: 528
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38504156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d4b836381d10a4fa2c2731e9d84ed6
+      internalID: -1014900215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 22b158d4c2bd90d4a9b13d8c6c56409f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stork with Baby0001: 2061806089
+      Stork with Baby0002: -670584713
+      Stork with Baby0003: -1942296597
+      Stork with Baby0004: 1953928772
+      Stork with Baby0005: 390869557
+      Stork with Baby0006: -911640420
+      Stork with Baby0007: 1357781242
+      Stork with Baby0008: 151542227
+      Stork with Baby0009: -310396389
+      Stork with Baby0010: 481018187
+      Stork with Baby0011: -2142240969
+      Stork with Baby0012: -1614769455
+      Stork with Baby0013: -2040744839
+      Stork with Baby0014: 1144385906
+      Stork with Baby0015: 1600321493
+      Stork with Baby0016: -1561810133
+      Stork with Baby0017: 1354978833
+      Stork with Baby0018: 1300397155
+      Stork with Baby0019: -717914332
+      Stork with Baby0020: 368337131
+      Stork with Baby0021: 474900867
+      Stork with Baby0022: 1381738684
+      Stork with Baby0023: 1548805200
+      Stork with Baby0024: 487573898
+      Stork with Baby0025: 1566748267
+      Stork with Baby0026: -1068940693
+      Stork with Baby0027: -1216454891
+      Stork with Baby0028: -1742307968
+      Stork with Baby0029: -73544293
+      Stork with Baby0030: 2139361726
+      Stork with Baby0031: 1155302684
+      Stork with Baby0032: -1014900215
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

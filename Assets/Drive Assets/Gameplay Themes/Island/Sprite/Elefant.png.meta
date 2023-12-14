@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: 5088a01f49931c443aca021c606f2454
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bilbo Walk0001
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 455
+        width: 442
+        height: 407
+      alignment: 9
+      pivot: {x: 0.5339367, y: 0.4963145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb9ccbc105b9b46ae68aace90629ef
+      internalID: 971120971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0002
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 862
+        width: 448
+        height: 406
+      alignment: 9
+      pivot: {x: 0.5379464, y: 0.49507388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d225a25f3900647b591e23020a3258
+      internalID: 1909268739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0003
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1268
+        width: 437
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b7d91c4c9f57d4f8bb99f83daffdc9
+      internalID: 1402628353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1276
+        width: 431
+        height: 394
+      alignment: 9
+      pivot: {x: 0.52204174, y: 0.51269037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58239ba8fa2f5449bc1daa4a9138d72
+      internalID: 1118262281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0005
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1670
+        width: 452
+        height: 386
+      alignment: 9
+      pivot: {x: 0.54646015, y: 0.5284974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a740384b1a3bcc419415d3dfeef9137
+      internalID: -320183660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0006
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1674
+        width: 467
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5588865, y: 0.526178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f048042017d1e4382c57b740fe0472
+      internalID: 245629015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0007
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1671
+        width: 482
+        height: 385
+      alignment: 9
+      pivot: {x: 0.57261413, y: 0.5246753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0290b64fc040d41409ba257c60c4d74a
+      internalID: -1152767174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0008
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1270
+        width: 473
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5665962, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16d7fc2a361d14791fdfbad7fb9558
+      internalID: -1191261217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0009
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 863
+        width: 480
+        height: 405
+      alignment: 9
+      pivot: {x: 0.56458336, y: 0.5037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436bb193827c3b14a85436102adbba8f
+      internalID: -1211397572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 494
+        height: 404
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1acb79235b6f954b902f29d4e04a3ca
+      internalID: 2086559873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 526
+        height: 406
+      alignment: 9
+      pivot: {x: 0.5228137, y: 0.49753696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf91f4d5ad60941b1913c561cac607
+      internalID: 1271642508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1675
+        width: 557
+        height: 381
+      alignment: 9
+      pivot: {x: 0.502693, y: 0.52755904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cace3311f402f4cb00edb1fad0c836
+      internalID: -1330316545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2091
+        width: 574
+        height: 339
+      alignment: 9
+      pivot: {x: 0.4965157, y: 0.6017699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ed25682652774cbb5eb5f2fea7d54
+      internalID: -1985609778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0014
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 3435
+        width: 582
+        height: 332
+      alignment: 9
+      pivot: {x: 0.49828178, y: 0.61445785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd30aac869fdad4b8e114a3e845f420
+      internalID: -267721107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0015
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3436
+        width: 578
+        height: 331
+      alignment: 9
+      pivot: {x: 0.5051903, y: 0.61027193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6d5efce05e14b459ef896a7386c343
+      internalID: -613954654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0016
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3102
+        width: 569
+        height: 333
+      alignment: 9
+      pivot: {x: 0.51318103, y: 0.6126126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbc0b16fdb0bd44abb88be58d3de461
+      internalID: -881139996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0017
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2768
+        width: 541
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5397412, y: 0.61077845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f47465aea10eb429057ef1ba32cfb4
+      internalID: 997688629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0018
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2432
+        width: 532
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5469925, y: 0.60714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5e4469b0bbc0429467c871abfaea6
+      internalID: -1196780024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0019
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 3102
+        width: 532
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5469925, y: 0.6066066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cffbbc8e298de4595e97094df82136
+      internalID: 376841707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3437
+        width: 545
+        height: 330
+      alignment: 9
+      pivot: {x: 0.53394496, y: 0.6090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a4f196d9f7a844aa3cdf2a692a304
+      internalID: -1805091697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0021
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3103
+        width: 535
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5439252, y: 0.61445785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efc7dd594ec0504293786b1ead31888
+      internalID: 1229843457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0022
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3768
+        width: 540
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5407407, y: 0.61585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5472b6e21cfee884a81ff82723be52df
+      internalID: -1639710992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0023
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2769
+        width: 545
+        height: 333
+      alignment: 9
+      pivot: {x: 0.53394496, y: 0.6066066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf5384390fbf2d45a874dd4d5e66b66
+      internalID: -343338096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3769
+        width: 540
+        height: 327
+      alignment: 9
+      pivot: {x: 0.53518516, y: 0.6146789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd390c0028ad96643a8bf8729a514a37
+      internalID: 1844472379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0025
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2769
+        width: 534
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5318352, y: 0.6126126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe50e03898976d4aafc9159e59e13ed
+      internalID: 1067629059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0026
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3767
+        width: 546
+        height: 329
+      alignment: 9
+      pivot: {x: 0.52014655, y: 0.6139818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9338a9445b24f6418587f73389cd451
+      internalID: -880022831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0027
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2433
+        width: 552
+        height: 335
+      alignment: 9
+      pivot: {x: 0.51449275, y: 0.6089552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a729de69baf4db645be7d5de901e3e92
+      internalID: -1039392199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0028
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2430
+        width: 565
+        height: 338
+      alignment: 9
+      pivot: {x: 0.5097345, y: 0.6035503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f664621a6329647b6fe76bafecf101
+      internalID: 1456310899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0029
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2056
+        width: 559
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ea64b93650804cb63dd5737711f98
+      internalID: 163892139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0030
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2056
+        width: 537
+        height: 374
+      alignment: 9
+      pivot: {x: 0.53072625, y: 0.54010695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b422c2b23b4c6044798c6f723f985882
+      internalID: -520084244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0031
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1273
+        width: 511
+        height: 397
+      alignment: 9
+      pivot: {x: 0.55772996, y: 0.5088161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd56d24d2b776a49a36ca81946808da
+      internalID: 133440955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0032
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 456
+        width: 476
+        height: 406
+      alignment: 9
+      pivot: {x: 0.56302524, y: 0.50246304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf394926d581d74996a14a2e34b01e8
+      internalID: -207703620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0033
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 864
+        width: 443
+        height: 404
+      alignment: 9
+      pivot: {x: 0.53047407, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1466473057bfa5f4490cd2c31e43bc6b
+      internalID: -1958219075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0034
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 453
+        width: 442
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5339367, y: 0.4987775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba4f67f46ceb9418437620067f1f74
+      internalID: -1006276428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bilbo Walk0035
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 443
+        height: 409
+      alignment: 9
+      pivot: {x: 0.53273135, y: 0.4987775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e4bce294cd1f644a5135cfec3d966e
+      internalID: -419632850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bcbee34d5218f334492298bbfe895ec3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bilbo Walk0001: 971120971
+      Bilbo Walk0002: 1909268739
+      Bilbo Walk0003: 1402628353
+      Bilbo Walk0004: 1118262281
+      Bilbo Walk0005: -320183660
+      Bilbo Walk0006: 245629015
+      Bilbo Walk0007: -1152767174
+      Bilbo Walk0008: -1191261217
+      Bilbo Walk0009: -1211397572
+      Bilbo Walk0010: 2086559873
+      Bilbo Walk0011: 1271642508
+      Bilbo Walk0012: -1330316545
+      Bilbo Walk0013: -1985609778
+      Bilbo Walk0014: -267721107
+      Bilbo Walk0015: -613954654
+      Bilbo Walk0016: -881139996
+      Bilbo Walk0017: 997688629
+      Bilbo Walk0018: -1196780024
+      Bilbo Walk0019: 376841707
+      Bilbo Walk0020: -1805091697
+      Bilbo Walk0021: 1229843457
+      Bilbo Walk0022: -1639710992
+      Bilbo Walk0023: -343338096
+      Bilbo Walk0024: 1844472379
+      Bilbo Walk0025: 1067629059
+      Bilbo Walk0026: -880022831
+      Bilbo Walk0027: -1039392199
+      Bilbo Walk0028: 1456310899
+      Bilbo Walk0029: 163892139
+      Bilbo Walk0030: -520084244
+      Bilbo Walk0031: 133440955
+      Bilbo Walk0032: -207703620
+      Bilbo Walk0033: -1958219075
+      Bilbo Walk0034: -1006276428
+      Bilbo Walk0035: -419632850
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

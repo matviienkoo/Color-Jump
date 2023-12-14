@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: 09ee2e2de07e61e43bb10a8ebf0d6b9c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pigeon Flying0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 469
+        height: 354
+      alignment: 9
+      pivot: {x: 0.51599145, y: 0.26129943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf113b8b53176bc4b8b0484a1a06091a
+      internalID: -477079980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 469
+        height: 354
+      alignment: 9
+      pivot: {x: 0.51599145, y: 0.26129943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef5ec728f353642b25c685f5f874d6
+      internalID: -201160470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 469
+        height: 354
+      alignment: 9
+      pivot: {x: 0.51599145, y: 0.26129943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8d67663e6ce0d4eb43b3cd842bcfe2
+      internalID: -694504255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 469
+        height: 354
+      alignment: 9
+      pivot: {x: 0.51599145, y: 0.26129943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d7d59942c1ea845873e63acac6fa70
+      internalID: -983520179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 464
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5215517, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d196c727d4982c4683bc3435b4803bb
+      internalID: -1718857502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 464
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5215517, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64addf1eccb37574899b93d1bd4dc336
+      internalID: 1060349441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 464
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5215517, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2ea9916977754bb3000bcbb3e9dc0
+      internalID: -1683897974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 464
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5215517, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc3ebbdf79ce994e9740c8c3e96f861
+      internalID: 998895740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 484
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.654185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d4aa2a62c6ae34394561fdf3c38724
+      internalID: 2095906301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 484
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.654185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ffbfa0d080874483c7df8756f7f49
+      internalID: 344382049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 484
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.654185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f56938312c70a4dad14b6af026ee12
+      internalID: 1184731643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 484
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.654185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e6255dc572084880bc35348320393
+      internalID: 1504334226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0013
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 557
+        width: 465
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.7646199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8ee25e3526674cbadeb0936873cef
+      internalID: 93661515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0014
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 557
+        width: 465
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.7646199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935f6d8eca86a374d9f1dc7566781900
+      internalID: 433224302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0015
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 557
+        width: 465
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.7646199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3000e159eea36c2479c76b801a596655
+      internalID: -1829896293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0016
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 557
+        width: 465
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.7646199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ba4726ce893b8499eaaf264c7fba26
+      internalID: -707732399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0017
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 263
+        width: 465
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.7380137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02448794779a3eb42a62530398955a41
+      internalID: -1866505412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0018
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 263
+        width: 465
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.7380137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84740cf3b96dbf841a353c97e1531730
+      internalID: -452946144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0019
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 263
+        width: 465
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.7380137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7359cf83b5c7649ba049a0e82d9245
+      internalID: 1706705840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0020
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 263
+        width: 465
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.7380137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c11e20eff676468eb3b6eabecc543
+      internalID: -695186432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0021
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3
+        width: 465
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.3624031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4c70c32bbffe04e81caa5a3da64a49
+      internalID: 794806020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0022
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3
+        width: 465
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.3624031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed960cb46fa1f449bc9bf738ecd4b1
+      internalID: -1406255922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0023
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3
+        width: 465
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.3624031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea18315a91fb5447868eb1479e67e7f
+      internalID: 1488363625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon Flying0024
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3
+        width: 465
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5204301, y: 0.3624031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e773244a7c7f44bba2f2def06d330
+      internalID: 1161762654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 87515ea3dd72dc941a1335b77fb5fa97
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pigeon Flying0001: -477079980
+      Pigeon Flying0002: -201160470
+      Pigeon Flying0003: -694504255
+      Pigeon Flying0004: -983520179
+      Pigeon Flying0005: -1718857502
+      Pigeon Flying0006: 1060349441
+      Pigeon Flying0007: -1683897974
+      Pigeon Flying0008: 998895740
+      Pigeon Flying0009: 2095906301
+      Pigeon Flying0010: 344382049
+      Pigeon Flying0011: 1184731643
+      Pigeon Flying0012: 1504334226
+      Pigeon Flying0013: 93661515
+      Pigeon Flying0014: 433224302
+      Pigeon Flying0015: -1829896293
+      Pigeon Flying0016: -707732399
+      Pigeon Flying0017: -1866505412
+      Pigeon Flying0018: -452946144
+      Pigeon Flying0019: 1706705840
+      Pigeon Flying0020: -695186432
+      Pigeon Flying0021: 794806020
+      Pigeon Flying0022: -1406255922
+      Pigeon Flying0023: 1488363625
+      Pigeon Flying0024: 1161762654
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

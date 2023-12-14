@@ -1,0 +1,53 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Autumn/Sprite/Bear.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Autumn/Sprite/Squirrel.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Dinosaur/Sprite/Dino Run.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Green Field/Birds-sprite/Blue Bird.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Green Field/Birds-sprite/Green bird.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Green Field/Birds-sprite/Parrot.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Green Field/Birds-sprite/Rabbit.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Island/Sprite/Elefant.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Island/Sprite/Macaw.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Night Sky/Sprite/Worm.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Pyramids/Ground and bg/Zombi.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Rain/Sprite/Stork.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Rain/Sprite/Wolf.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Snow/Sprite-Animation/Pigeon.tpsheet
+- Assets/Drive Assets/Gameplay Themes/Space/Bg/Robot Run.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Drive Assets/Gameplay Themes/Autumn/Sprite/Bear.png
+- Assets/Drive Assets/Gameplay Themes/Autumn/Sprite/Squirrel.png
+- Assets/Drive Assets/Gameplay Themes/Dinosaur/Sprite/Dino Run.png
+- Assets/Drive Assets/Gameplay Themes/Green Field/Birds-sprite/Blue Bird.png
+- Assets/Drive Assets/Gameplay Themes/Green Field/Birds-sprite/Green bird.png
+- Assets/Drive Assets/Gameplay Themes/Green Field/Birds-sprite/Parrot.png
+- Assets/Drive Assets/Gameplay Themes/Green Field/Birds-sprite/Rabbit.png
+- Assets/Drive Assets/Gameplay Themes/Island/Sprite/Elefant.png
+- Assets/Drive Assets/Gameplay Themes/Island/Sprite/Macaw.png
+- Assets/Drive Assets/Gameplay Themes/Night Sky/Sprite/Worm.png
+- Assets/Drive Assets/Gameplay Themes/Pyramids/Ground and bg/Zombi.png
+- Assets/Drive Assets/Gameplay Themes/Rain/Sprite/Stork.png
+- Assets/Drive Assets/Gameplay Themes/Rain/Sprite/Wolf.png
+- Assets/Drive Assets/Gameplay Themes/Snow/Sprite-Animation/Pigeon.png
+- Assets/Drive Assets/Gameplay Themes/Space/Bg/Robot Run.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

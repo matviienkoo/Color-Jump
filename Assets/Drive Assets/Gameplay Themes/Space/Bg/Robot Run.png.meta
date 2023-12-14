@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 03c7c9f4ba296884a9cd25676260e21f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robot Run0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 412
+        width: 265
+        height: 406
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.50123155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2848ceb22e7844742a88a8ae52763f27
+      internalID: -894512297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0002
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 411
+        width: 268
+        height: 406
+      alignment: 9
+      pivot: {x: 0.51679105, y: 0.50123155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c1b69207a1194ba7d26a332f1d2bb
+      internalID: -1886694357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 287
+        height: 406
+      alignment: 9
+      pivot: {x: 0.4651568, y: 0.50123155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3d7d7cafd0ff243afbe1186bfa100d
+      internalID: -2023206079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0004
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 312
+        height: 406
+      alignment: 9
+      pivot: {x: 0.49198717, y: 0.50123155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577e179ef0b4cf343a8907a15cb1299d
+      internalID: 970971204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0005
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 410
+        width: 316
+        height: 405
+      alignment: 9
+      pivot: {x: 0.47310126, y: 0.49753088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f68bcb92e6f2d48926d2d56b1993c0
+      internalID: 486233857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0006
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1225
+        width: 323
+        height: 403
+      alignment: 9
+      pivot: {x: 0.47213623, y: 0.4975186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b893e95197b88834b8f8834d16a5ad9f
+      internalID: 150752400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1639
+        width: 322
+        height: 392
+      alignment: 9
+      pivot: {x: 0.49534163, y: 0.5089286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e704f8fca74d8c741a89240b48491a0c
+      internalID: 1904306029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0008
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1630
+        width: 279
+        height: 401
+      alignment: 9
+      pivot: {x: 0.48207885, y: 0.50498754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3cefa78b13d934391309c155deee09
+      internalID: -894687066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0009
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1630
+        width: 258
+        height: 401
+      alignment: 9
+      pivot: {x: 0.5135659, y: 0.50498754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2394fb395567a4d8221154b741698c
+      internalID: -1789401722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1234
+        width: 257
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5233463, y: 0.5024814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac2110eae5063448e585716bc396b3
+      internalID: 1350466593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0011
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2
+        width: 279
+        height: 406
+      alignment: 9
+      pivot: {x: 0.55376345, y: 0.49876848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d477850868ac0d64f998818706980254
+      internalID: -418816660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0012
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1224
+        width: 293
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5648464, y: 0.50123763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa15886825c6a943990c83cc8286ca2
+      internalID: 380048985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 820
+        width: 303
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5627063, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2365e2ceb52f34cafe7f9aa527e4d8
+      internalID: -2131536263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0014
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 817
+        width: 294
+        height: 405
+      alignment: 9
+      pivot: {x: 0.579932, y: 0.5024691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfa20c15c9f47045a8a2ecc642cb184
+      internalID: 1928754114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Run0015
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 819
+        width: 274
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5383212, y: 0.49876237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9ca1f82339934695aacb4c738b17d
+      internalID: -995106064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e7612ab77a661b7458fc1cab5dc710dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Robot Run0001: -894512297
+      Robot Run0002: -1886694357
+      Robot Run0003: -2023206079
+      Robot Run0004: 970971204
+      Robot Run0005: 486233857
+      Robot Run0006: 150752400
+      Robot Run0007: 1904306029
+      Robot Run0008: -894687066
+      Robot Run0009: -1789401722
+      Robot Run0010: 1350466593
+      Robot Run0011: -418816660
+      Robot Run0012: 380048985
+      Robot Run0013: -2131536263
+      Robot Run0014: 1928754114
+      Robot Run0015: -995106064
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: 418b8c7075efa294cadb548e9071b1ae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bear Running0001
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1709
+        width: 461
+        height: 339
+      alignment: 9
+      pivot: {x: 0.318872, y: 0.52359885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e63c0cd23a411247a8f15c76d1755b8
+      internalID: 1041698632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0002
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1709
+        width: 461
+        height: 339
+      alignment: 9
+      pivot: {x: 0.318872, y: 0.52359885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f7c3d369693244b278c7b9ab3670f
+      internalID: 1054337308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0003
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1709
+        width: 461
+        height: 339
+      alignment: 9
+      pivot: {x: 0.318872, y: 0.52359885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f740853efbcdbf14886b8a96700c9948
+      internalID: -1976486589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0004
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1709
+        width: 461
+        height: 339
+      alignment: 9
+      pivot: {x: 0.318872, y: 0.52359885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75af53dbb3f72f74d92e406f529dc8f0
+      internalID: 1137876492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0005
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1364
+        width: 460
+        height: 345
+      alignment: 9
+      pivot: {x: 0.30652174, y: 0.49130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea248979b9238c643aa65fd3054aa7ed
+      internalID: 1308448530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0006
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1364
+        width: 460
+        height: 345
+      alignment: 9
+      pivot: {x: 0.30652174, y: 0.49130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a482703cfa79ca4a90145516eda1865
+      internalID: -409678037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0007
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1364
+        width: 460
+        height: 345
+      alignment: 9
+      pivot: {x: 0.30652174, y: 0.49130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0798f274f9ad9c48ad920d8f2e08d16
+      internalID: -1317377179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0008
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1364
+        width: 460
+        height: 345
+      alignment: 9
+      pivot: {x: 0.30652174, y: 0.49130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c8e46dfcdc774f96a792ad54bc5a0
+      internalID: -668287075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0009
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1014
+        width: 453
+        height: 350
+      alignment: 9
+      pivot: {x: 0.30463576, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c2dd749b92eb245a43587d83893712
+      internalID: -1543113161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0010
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1014
+        width: 453
+        height: 350
+      alignment: 9
+      pivot: {x: 0.30463576, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b5e576687f8074bad7b2a13aa7c298
+      internalID: -1820448430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0011
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1014
+        width: 453
+        height: 350
+      alignment: 9
+      pivot: {x: 0.30463576, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f648df7ed598b4caa20b3d6d03a92e
+      internalID: 260893040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0012
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1014
+        width: 453
+        height: 350
+      alignment: 9
+      pivot: {x: 0.30463576, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e7e6c5873ef44aa15fa68170a6e3d
+      internalID: 1531052027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0013
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 654
+        width: 468
+        height: 357
+      alignment: 9
+      pivot: {x: 0.31837606, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacc18d34c5500c4b95a7b84f4d608f7
+      internalID: 2008043774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0014
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 654
+        width: 468
+        height: 357
+      alignment: 9
+      pivot: {x: 0.31837606, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb33c22c9b52904b8534e033f555dc6
+      internalID: -749414035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0015
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 654
+        width: 468
+        height: 357
+      alignment: 9
+      pivot: {x: 0.31837606, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca17e7cd82e862443a48a54ab72b238a
+      internalID: -297111552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0016
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 654
+        width: 468
+        height: 357
+      alignment: 9
+      pivot: {x: 0.31837606, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0c313ec84e6fb4abadb2b6fdfac8d4
+      internalID: -1489317354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0017
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 495
+        height: 356
+      alignment: 9
+      pivot: {x: 0.36161616, y: 0.4985955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423e244ef8bf0e4cab34e1fb190b5fc
+      internalID: -1588336009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 495
+        height: 356
+      alignment: 9
+      pivot: {x: 0.36161616, y: 0.4985955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92be9731dbc4fd4ea0b77b2541be8db
+      internalID: -1162129468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0019
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 495
+        height: 356
+      alignment: 9
+      pivot: {x: 0.36161616, y: 0.4985955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba76cbe39083e6d47998bdfa51068137
+      internalID: -1865933136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 495
+        height: 356
+      alignment: 9
+      pivot: {x: 0.36161616, y: 0.4985955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c805188163f4b2b468563ea7b5b4e373
+      internalID: 2047609615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0021
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1365
+        width: 549
+        height: 344
+      alignment: 9
+      pivot: {x: 0.420765, y: 0.5188953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc8c6ed4ed36643aa5ae0e0992b8cb
+      internalID: 762383960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0022
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1365
+        width: 549
+        height: 344
+      alignment: 9
+      pivot: {x: 0.420765, y: 0.5188953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ed394593a4e42478e1e98dbc7d1f70
+      internalID: -47162687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0023
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1365
+        width: 549
+        height: 344
+      alignment: 9
+      pivot: {x: 0.420765, y: 0.5188953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12bda0525053924a937ccf55b8c31eb
+      internalID: 384106334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0024
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1365
+        width: 549
+        height: 344
+      alignment: 9
+      pivot: {x: 0.420765, y: 0.5188953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c209ad8539d684d8c6a1b6fbfc1f85
+      internalID: 1731725030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1369
+        width: 657
+        height: 340
+      alignment: 9
+      pivot: {x: 0.50076103, y: 0.51029414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a740c7790d26dfd4193e9e48da4e0aae
+      internalID: 1181241026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1369
+        width: 657
+        height: 340
+      alignment: 9
+      pivot: {x: 0.50076103, y: 0.51029414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0dc399382bb37419a3b8ebd8eafc00
+      internalID: -1677050069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0027
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1369
+        width: 657
+        height: 340
+      alignment: 9
+      pivot: {x: 0.50076103, y: 0.51029414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dfc1138a0bcc14eb730b10451d2145
+      internalID: -1037573170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0028
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1369
+        width: 657
+        height: 340
+      alignment: 9
+      pivot: {x: 0.50076103, y: 0.51029414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72be06ddfd67b848954494fc10cdcf7
+      internalID: -1670657219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1737
+        width: 584
+        height: 311
+      alignment: 9
+      pivot: {x: 0.43664384, y: 0.5482315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b061bd60eedaf4d92a45988a300496
+      internalID: -1368596606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0030
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1737
+        width: 584
+        height: 311
+      alignment: 9
+      pivot: {x: 0.43664384, y: 0.5482315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a0236d1fd0b3f4ab5657fdc98d8da7
+      internalID: 763517885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0031
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1737
+        width: 584
+        height: 311
+      alignment: 9
+      pivot: {x: 0.43664384, y: 0.5482315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12f86aaea9f7c4a9e131d4c433c4c6
+      internalID: 353331707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0032
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1737
+        width: 584
+        height: 311
+      alignment: 9
+      pivot: {x: 0.43664384, y: 0.5482315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa6a5db0f1e9f94b92a4546ccda2a59
+      internalID: -581759098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0033
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1718
+        width: 609
+        height: 330
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aadc070e8eeb6643b08aaebb75c233e
+      internalID: 1364078156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0034
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1718
+        width: 609
+        height: 330
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefb2e15298fd0245a8c88056c9a2a01
+      internalID: 179062615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0035
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1718
+        width: 609
+        height: 330
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c20e4f2bbf80d4f81bf1ad8c8c617f
+      internalID: -1769611336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0036
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1718
+        width: 609
+        height: 330
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ccbdbbee7333c4e80ef90db45e26f7
+      internalID: -695824671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0037
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 613
+        height: 345
+      alignment: 9
+      pivot: {x: 0.46329528, y: 0.4884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79d00b9d5b2ac84fb9905ab5b35bf88
+      internalID: -104947505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0038
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 613
+        height: 345
+      alignment: 9
+      pivot: {x: 0.46329528, y: 0.4884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b26ddf0d392f6c4aa35dc1b7cdbd0b4
+      internalID: -1672777952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0039
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 613
+        height: 345
+      alignment: 9
+      pivot: {x: 0.46329528, y: 0.4884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08427d1359502004d9ccace373e66ffa
+      internalID: 1382837163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0040
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 613
+        height: 345
+      alignment: 9
+      pivot: {x: 0.46329528, y: 0.4884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246e6ff5084842943878a3887632f164
+      internalID: 1075339962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0041
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 655
+        width: 591
+        height: 356
+      alignment: 9
+      pivot: {x: 0.4433164, y: 0.5014045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ec1c4efa16439408c0268f9d107fc9
+      internalID: -1547358393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0042
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 655
+        width: 591
+        height: 356
+      alignment: 9
+      pivot: {x: 0.4433164, y: 0.5014045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5839fee47b281de429e6145ad750a507
+      internalID: -876548479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0043
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 655
+        width: 591
+        height: 356
+      alignment: 9
+      pivot: {x: 0.4433164, y: 0.5014045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71f38ddda464434a912c5bda37700e7
+      internalID: -682085937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0044
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 655
+        width: 591
+        height: 356
+      alignment: 9
+      pivot: {x: 0.4433164, y: 0.5014045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0903b1c7342c4a9489055e27b33952b0
+      internalID: -33651816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0045
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1011
+        width: 542
+        height: 353
+      alignment: 9
+      pivot: {x: 0.39298892, y: 0.49433428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba11acd62ac755a4c9a45b5461c49889
+      internalID: -1376007129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0046
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1011
+        width: 542
+        height: 353
+      alignment: 9
+      pivot: {x: 0.39298892, y: 0.49433428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8f14cca594a641a7bf38766729077
+      internalID: 1844423733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0047
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1011
+        width: 542
+        height: 353
+      alignment: 9
+      pivot: {x: 0.39298892, y: 0.49433428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb46db5ea52b4e74cb5b8762ad3f26d1
+      internalID: -986988694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Running0048
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1011
+        width: 542
+        height: 353
+      alignment: 9
+      pivot: {x: 0.39298892, y: 0.49433428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df3aaf506795c43b202db92bdc6c46
+      internalID: 834092201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aec2af1d6507dc847b28f1af46bc2a76
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bear Running0001: 1041698632
+      Bear Running0002: 1054337308
+      Bear Running0003: -1976486589
+      Bear Running0004: 1137876492
+      Bear Running0005: 1308448530
+      Bear Running0006: -409678037
+      Bear Running0007: -1317377179
+      Bear Running0008: -668287075
+      Bear Running0009: -1543113161
+      Bear Running0010: -1820448430
+      Bear Running0011: 260893040
+      Bear Running0012: 1531052027
+      Bear Running0013: 2008043774
+      Bear Running0014: -749414035
+      Bear Running0015: -297111552
+      Bear Running0016: -1489317354
+      Bear Running0017: -1588336009
+      Bear Running0018: -1162129468
+      Bear Running0019: -1865933136
+      Bear Running0020: 2047609615
+      Bear Running0021: 762383960
+      Bear Running0022: -47162687
+      Bear Running0023: 384106334
+      Bear Running0024: 1731725030
+      Bear Running0025: 1181241026
+      Bear Running0026: -1677050069
+      Bear Running0027: -1037573170
+      Bear Running0028: -1670657219
+      Bear Running0029: -1368596606
+      Bear Running0030: 763517885
+      Bear Running0031: 353331707
+      Bear Running0032: -581759098
+      Bear Running0033: 1364078156
+      Bear Running0034: 179062615
+      Bear Running0035: -1769611336
+      Bear Running0036: -695824671
+      Bear Running0037: -104947505
+      Bear Running0038: -1672777952
+      Bear Running0039: 1382837163
+      Bear Running0040: 1075339962
+      Bear Running0041: -1547358393
+      Bear Running0042: -876548479
+      Bear Running0043: -682085937
+      Bear Running0044: -33651816
+      Bear Running0045: -1376007129
+      Bear Running0046: 1844423733
+      Bear Running0047: -986988694
+      Bear Running0048: 834092201
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

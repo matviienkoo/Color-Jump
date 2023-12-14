@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e01e10f76e35dfeddb9c33069de61756:a937ab282025c00b18d9420c24874629:a527708b1c374ad872d0f3c9335b2ef6$
+#
+:format=40300
+:texture=Wolf.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Wolf Run0001;0;1726;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0002;0;1726;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0003;689;1726;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0004;689;1726;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0005;0;1404;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0006;0;1404;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0007;689;1404;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0008;689;1404;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0009;0;1082;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0010;0;1082;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0011;689;1082;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0012;689;1082;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0013;0;760;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0014;0;760;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0015;689;760;689;322; 0.5;0.5; 0;0;0;0
+Wolf Run0016;689;760;689;322; 0.5;0.5; 0;0;0;0

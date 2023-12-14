@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: c5e96895ce4ed034fad611a7a6436fc6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Parrot Green0001
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 931
+        width: 607
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5971993, y: 0.3371105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530bda3ac0f3ad74398a1a44faa2047b
+      internalID: -1514305491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0002
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 931
+        width: 607
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5971993, y: 0.3371105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47947bb6545d5d4eb1496a48e796694
+      internalID: 1921767662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0003
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 931
+        width: 607
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5971993, y: 0.3371105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7d2afbcf57f0b44af08f540b09e011
+      internalID: 510318001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0004
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 931
+        width: 607
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5971993, y: 0.3371105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20d4978b141a0f4f9155b1335c14d20
+      internalID: 991143266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0005
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 911
+        width: 594
+        height: 373
+      alignment: 9
+      pivot: {x: 0.60690236, y: 0.37533513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0adc64d34c556948b3cacd1b0ab7fea
+      internalID: 323163620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0006
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 911
+        width: 594
+        height: 373
+      alignment: 9
+      pivot: {x: 0.60690236, y: 0.37533513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d3230ac744a04280392257cd6aa0b
+      internalID: 288477210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0007
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 911
+        width: 594
+        height: 373
+      alignment: 9
+      pivot: {x: 0.60690236, y: 0.37533513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8253286234bfd2a43985c6da4a2d686f
+      internalID: 1815717768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0008
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 911
+        width: 594
+        height: 373
+      alignment: 9
+      pivot: {x: 0.60690236, y: 0.37533513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff3b2df081e6b4da9693961f2c4fd1
+      internalID: 1388484434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 604
+        height: 352
+      alignment: 9
+      pivot: {x: 0.60016555, y: 0.33522728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f715bfbce7c218d41b844685d4a26eb9
+      internalID: 379002485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 604
+        height: 352
+      alignment: 9
+      pivot: {x: 0.60016555, y: 0.33522728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127ca793a5f2ef45bfde082fae07306
+      internalID: -929240296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 604
+        height: 352
+      alignment: 9
+      pivot: {x: 0.60016555, y: 0.33522728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392a7401114b76a4882c90133cd5e1c0
+      internalID: 1909875757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 604
+        height: 352
+      alignment: 9
+      pivot: {x: 0.60016555, y: 0.33522728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29e8c056852eb74db5ba631539da988
+      internalID: 559685977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0013
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1284
+        width: 603
+        height: 291
+      alignment: 9
+      pivot: {x: 0.6011609, y: 0.41580757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e37a3935342d499e075f31f3442c0
+      internalID: -1733052128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0014
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1284
+        width: 603
+        height: 291
+      alignment: 9
+      pivot: {x: 0.6011609, y: 0.41580757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc5aa4d370d4734c99d2ad3d3419dd3
+      internalID: -1668458654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0015
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1284
+        width: 603
+        height: 291
+      alignment: 9
+      pivot: {x: 0.6011609, y: 0.41580757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9650088c3200c3c44b5f3a03516df1f6
+      internalID: -151183273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0016
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1284
+        width: 603
+        height: 291
+      alignment: 9
+      pivot: {x: 0.6011609, y: 0.41580757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599fda2bc1ca80c4fb6fd3aec56858c4
+      internalID: 1791968450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0017
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1604
+        width: 630
+        height: 224
+      alignment: 9
+      pivot: {x: 0.57857144, y: 0.49107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564388a63406ae04788753e8a5900f78
+      internalID: -896704765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0018
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1604
+        width: 630
+        height: 224
+      alignment: 9
+      pivot: {x: 0.57857144, y: 0.49107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11797543bfbff004db6e0a47d359a579
+      internalID: 1022460170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0019
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1604
+        width: 630
+        height: 224
+      alignment: 9
+      pivot: {x: 0.57857144, y: 0.49107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacadfa23dd1a6a4494cd6f2f9b04972
+      internalID: 1866467466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0020
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1604
+        width: 630
+        height: 224
+      alignment: 9
+      pivot: {x: 0.57857144, y: 0.49107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad244a483c5834ab09e1db1dbf29bd
+      internalID: 1683840503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0021
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1880
+        width: 663
+        height: 168
+      alignment: 9
+      pivot: {x: 0.54977375, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a723f87c691474d9ad5a217827ef8d
+      internalID: 1798804141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0022
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1880
+        width: 663
+        height: 168
+      alignment: 9
+      pivot: {x: 0.54977375, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d53ac615a8165e4c87ac0fc26db0438
+      internalID: 385378474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0023
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1880
+        width: 663
+        height: 168
+      alignment: 9
+      pivot: {x: 0.54977375, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14999d887cab41049844430b396e2dd6
+      internalID: -254997092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0024
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1880
+        width: 663
+        height: 168
+      alignment: 9
+      pivot: {x: 0.54977375, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9cfe0595ce6714bba19c756c1e9a79
+      internalID: 1702735962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0025
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1351
+        width: 729
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65178573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e17de480e428468f86a8a82c03d44
+      internalID: -1838619280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0026
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1351
+        width: 729
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65178573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ed11eb0efc1b4d9c04a53b32ada9f
+      internalID: 1019013542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0027
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1351
+        width: 729
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65178573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f08b4c9fa7a3c4488533e756b1deb9
+      internalID: 755764724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0028
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1351
+        width: 729
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65178573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ee8867a745d73499962f890f0eba2b
+      internalID: -177875423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653
+        width: 721
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5055478, y: 0.68604654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6bfe50b3beda4bb0645971915996a
+      internalID: -322370652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0030
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653
+        width: 721
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5055478, y: 0.68604654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f2f41f9b6612a4ea8dcf1958ca4376
+      internalID: 93982312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0031
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653
+        width: 721
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5055478, y: 0.68604654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543ac40602078924b84d0d9031cf877b
+      internalID: -135595395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0032
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653
+        width: 721
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5055478, y: 0.68604654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01369a044aee6594ca41059a23f5feef
+      internalID: -790471526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0033
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 729
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b3f6c38093a784c8575cfb9bab238c
+      internalID: -1852079395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0034
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 729
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0720549913a46945a48e44814cd0b65
+      internalID: 1708403978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0035
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 729
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7aa3c20ba081b428e1f1d99a99d7c8
+      internalID: 1510617523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0036
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 729
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8bfb7eed0275646b9136604ea5a888
+      internalID: 2110870009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0037
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 301
+        width: 714
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5105042, y: 0.7548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5d62a6b0aee1f4b9ef1df5eb312dc7
+      internalID: 218913620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0038
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 301
+        width: 714
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5105042, y: 0.7548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02ce78ae3204314c992b7482b4d85a6
+      internalID: 907723618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0039
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 301
+        width: 714
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5105042, y: 0.7548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b637c903b1f421d4fadd22b5279021a5
+      internalID: -1819762755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0040
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 301
+        width: 714
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5105042, y: 0.7548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b992cefd92278489d4cc1b276e1c87
+      internalID: -1923907435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0041
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 611
+        width: 682
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5344575, y: 0.72333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f1cb4e42aec194ca10d03cdb54b99f
+      internalID: -1066695705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0042
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 611
+        width: 682
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5344575, y: 0.72333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6644d9a7d7d5f47ae5b0c6e373f9a3
+      internalID: 349759064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0043
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 611
+        width: 682
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5344575, y: 0.72333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d803aaadddeed043b3f187824875cc2
+      internalID: -754451386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0044
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 611
+        width: 682
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5344575, y: 0.72333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ca38130eb3f9f45ab41781ef39936a
+      internalID: 498768816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0045
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1285
+        width: 599
+        height: 290
+      alignment: 9
+      pivot: {x: 0.6085142, y: 0.69310343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e6ee90fb03687409cfe1e35898684a
+      internalID: 507457870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0046
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1285
+        width: 599
+        height: 290
+      alignment: 9
+      pivot: {x: 0.6085142, y: 0.69310343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043a59b1ee6beb343b8ef0700f5b101f
+      internalID: -1197323183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0047
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1285
+        width: 599
+        height: 290
+      alignment: 9
+      pivot: {x: 0.6085142, y: 0.69310343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e18f830a320494c94d02b743063119
+      internalID: 799253292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0048
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1285
+        width: 599
+        height: 290
+      alignment: 9
+      pivot: {x: 0.6085142, y: 0.69310343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c0d92597f32cf41a613c0a94b11c76
+      internalID: -505927445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0049
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 605
+        height: 200
+      alignment: 9
+      pivot: {x: 0.60247934, y: 0.595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b358b15c7461f4db0718f2769f03f9
+      internalID: -1173563518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0050
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 605
+        height: 200
+      alignment: 9
+      pivot: {x: 0.60247934, y: 0.595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5c7542fd7d3064c92effed7614cb47
+      internalID: -1923761672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0051
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 605
+        height: 200
+      alignment: 9
+      pivot: {x: 0.60247934, y: 0.595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e686fcd3c8eb4e9af1b0b5005ee5b
+      internalID: 527085434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0052
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 605
+        height: 200
+      alignment: 9
+      pivot: {x: 0.60247934, y: 0.595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a0db8ff64137a4996e61c5a2e5d1f2
+      internalID: 1654299160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0053
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1828
+        width: 591
+        height: 220
+      alignment: 9
+      pivot: {x: 0.61675125, y: 0.48181817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788f52c01f11f93498b1aff91586d50b
+      internalID: 918626046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0054
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1828
+        width: 591
+        height: 220
+      alignment: 9
+      pivot: {x: 0.61675125, y: 0.48181817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3540b63cb71d5a74eacc8c8ba8e6fc44
+      internalID: -1217152320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0055
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1828
+        width: 591
+        height: 220
+      alignment: 9
+      pivot: {x: 0.61675125, y: 0.48181817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec75a3e36ee51064eae7ce2fbab6b6ee
+      internalID: 1154664781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0056
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1828
+        width: 591
+        height: 220
+      alignment: 9
+      pivot: {x: 0.61675125, y: 0.48181817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef826a25e1257904dbabf3d3bf8b20be
+      internalID: 1360317082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0057
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1594
+        width: 604
+        height: 234
+      alignment: 9
+      pivot: {x: 0.6034768, y: 0.47008547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a503d68abdad4942825fde6d395f46b
+      internalID: 1584770338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0058
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1594
+        width: 604
+        height: 234
+      alignment: 9
+      pivot: {x: 0.6034768, y: 0.47008547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a79ce33491f26d4caf28594dd52cd7a
+      internalID: 1412337135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0059
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1594
+        width: 604
+        height: 234
+      alignment: 9
+      pivot: {x: 0.6034768, y: 0.47008547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec43740a84a04e44f9e4e1d59328cf59
+      internalID: 1593171932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0060
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1594
+        width: 604
+        height: 234
+      alignment: 9
+      pivot: {x: 0.6034768, y: 0.47008547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb5192267fd5054b873baee8ed1547d
+      internalID: -1945567434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0061
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1575
+        width: 604
+        height: 253
+      alignment: 9
+      pivot: {x: 0.6034768, y: 0.4743083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43281c6be119e941a6e5beaf2496ab3
+      internalID: -775743795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0062
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1575
+        width: 604
+        height: 253
+      alignment: 9
+      pivot: {x: 0.6034768, y: 0.4743083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32382d41d5e6c2549bc1d9a8674900c9
+      internalID: -823384295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0063
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1575
+        width: 604
+        height: 253
+      alignment: 9
+      pivot: {x: 0.6034768, y: 0.4743083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce1e6858028dcd42a459768c12e5c06
+      internalID: 1443724256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parrot Green0064
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1575
+        width: 604
+        height: 253
+      alignment: 9
+      pivot: {x: 0.6034768, y: 0.4743083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb63b1d0aa81a4fb2b810c5c2cafa9
+      internalID: 1149339070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d54eec78930ca5b41b2ab3478dafabd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Parrot Green0001: -1514305491
+      Parrot Green0002: 1921767662
+      Parrot Green0003: 510318001
+      Parrot Green0004: 991143266
+      Parrot Green0005: 323163620
+      Parrot Green0006: 288477210
+      Parrot Green0007: 1815717768
+      Parrot Green0008: 1388484434
+      Parrot Green0009: 379002485
+      Parrot Green0010: -929240296
+      Parrot Green0011: 1909875757
+      Parrot Green0012: 559685977
+      Parrot Green0013: -1733052128
+      Parrot Green0014: -1668458654
+      Parrot Green0015: -151183273
+      Parrot Green0016: 1791968450
+      Parrot Green0017: -896704765
+      Parrot Green0018: 1022460170
+      Parrot Green0019: 1866467466
+      Parrot Green0020: 1683840503
+      Parrot Green0021: 1798804141
+      Parrot Green0022: 385378474
+      Parrot Green0023: -254997092
+      Parrot Green0024: 1702735962
+      Parrot Green0025: -1838619280
+      Parrot Green0026: 1019013542
+      Parrot Green0027: 755764724
+      Parrot Green0028: -177875423
+      Parrot Green0029: -322370652
+      Parrot Green0030: 93982312
+      Parrot Green0031: -135595395
+      Parrot Green0032: -790471526
+      Parrot Green0033: -1852079395
+      Parrot Green0034: 1708403978
+      Parrot Green0035: 1510617523
+      Parrot Green0036: 2110870009
+      Parrot Green0037: 218913620
+      Parrot Green0038: 907723618
+      Parrot Green0039: -1819762755
+      Parrot Green0040: -1923907435
+      Parrot Green0041: -1066695705
+      Parrot Green0042: 349759064
+      Parrot Green0043: -754451386
+      Parrot Green0044: 498768816
+      Parrot Green0045: 507457870
+      Parrot Green0046: -1197323183
+      Parrot Green0047: 799253292
+      Parrot Green0048: -505927445
+      Parrot Green0049: -1173563518
+      Parrot Green0050: -1923761672
+      Parrot Green0051: 527085434
+      Parrot Green0052: 1654299160
+      Parrot Green0053: 918626046
+      Parrot Green0054: -1217152320
+      Parrot Green0055: 1154664781
+      Parrot Green0056: 1360317082
+      Parrot Green0057: 1584770338
+      Parrot Green0058: 1412337135
+      Parrot Green0059: 1593171932
+      Parrot Green0060: -1945567434
+      Parrot Green0061: -775743795
+      Parrot Green0062: -823384295
+      Parrot Green0063: 1443724256
+      Parrot Green0064: 1149339070
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

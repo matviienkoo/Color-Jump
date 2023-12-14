@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 19061bc0bc2950049a8334200e10f305
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5409242991249600649
+    second: Buterfly-sprite01_0
+  - first:
+      213: -783155158863467876
+    second: Buterfly-sprite01_1
+  - first:
+      213: 4558359184951810394
+    second: Buterfly-sprite01_2
+  - first:
+      213: 8856923344118621030
+    second: Buterfly-sprite01_3
+  - first:
+      213: 2625587970343604082
+    second: Buterfly-sprite01_4
+  - first:
+      213: 3695832393690166833
+    second: Buterfly-sprite01_5
+  - first:
+      213: 2910559628051151051
+    second: Buterfly-sprite01_6
+  - first:
+      213: -139273969446823451
+    second: Buterfly-sprite01_7
+  - first:
+      213: 1002877551813615114
+    second: Buterfly-sprite01_8
+  - first:
+      213: -7383384613135972839
+    second: Buterfly-sprite01_9
+  - first:
+      213: -8525355224014227156
+    second: Buterfly-sprite01_10
+  - first:
+      213: -2231795340553812884
+    second: Buterfly-sprite01_11
+  - first:
+      213: 7331621572540020359
+    second: Buterfly-sprite01_12
+  - first:
+      213: 2444452928352100999
+    second: Buterfly-sprite01_13
+  - first:
+      213: 536373038549255898
+    second: Buterfly-sprite01_14
+  - first:
+      213: 6035908850239052766
+    second: Buterfly-sprite01_15
+  - first:
+      213: 6426082315148812090
+    second: Buterfly-sprite01_16
+  - first:
+      213: -8626558045433822142
+    second: Buterfly-sprite01_17
+  - first:
+      213: 884175143420559345
+    second: Buterfly-sprite01_18
+  - first:
+      213: 7890672033484140721
+    second: Buterfly-sprite01_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buterfly-sprite01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fcbcaa8228ee4b0800000000000000
+      internalID: -5409242991249600649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aade7488ca125f0800000000000000
+      internalID: -783155158863467876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5911b9078b824f30800000000000000
+      internalID: 4558359184951810394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6632e010bdc1aea70800000000000000
+      internalID: 8856923344118621030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f8eda1956ff6420800000000000000
+      internalID: 2625587970343604082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b84f0bfb3a4330800000000000000
+      internalID: 3695832393690166833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8f4979f82646820800000000000000
+      internalID: 2910559628051151051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d9ac0013311ef0800000000000000
+      internalID: -139273969446823451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5015e1dfeaed00800000000000000
+      internalID: 1002877551813615114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 111.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91602fd20d2f88990800000000000000
+      internalID: -7383384613135972839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297c90d79adfa980800000000000000
+      internalID: -8525355224014227156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640bea56f11701e0800000000000000
+      internalID: -2231795340553812884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786b6d2c9f62fb560800000000000000
+      internalID: 7331621572540020359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7822790bcf07ce120800000000000000
+      internalID: 2444452928352100999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad643ddcf64917700800000000000000
+      internalID: 536373038549255898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb9223ae1bd3c350800000000000000
+      internalID: 6035908850239052766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f5ddb91d70e2950800000000000000
+      internalID: 6426082315148812090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24401a3c92f484880800000000000000
+      internalID: -8626558045433822142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffffcebb98354c00800000000000000
+      internalID: 884175143420559345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buterfly-sprite01_19
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0.5
+        width: 104.6
+        height: 111.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b07eea686c418d60800000000000000
+      internalID: 7890672033484140721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Buterfly-sprite01_0: -5409242991249600649
+      Buterfly-sprite01_1: -783155158863467876
+      Buterfly-sprite01_10: -8525355224014227156
+      Buterfly-sprite01_11: -2231795340553812884
+      Buterfly-sprite01_12: 7331621572540020359
+      Buterfly-sprite01_13: 2444452928352100999
+      Buterfly-sprite01_14: 536373038549255898
+      Buterfly-sprite01_15: 6035908850239052766
+      Buterfly-sprite01_16: 6426082315148812090
+      Buterfly-sprite01_17: -8626558045433822142
+      Buterfly-sprite01_18: 884175143420559345
+      Buterfly-sprite01_19: 7890672033484140721
+      Buterfly-sprite01_2: 4558359184951810394
+      Buterfly-sprite01_3: 8856923344118621030
+      Buterfly-sprite01_4: 2625587970343604082
+      Buterfly-sprite01_5: 3695832393690166833
+      Buterfly-sprite01_6: 2910559628051151051
+      Buterfly-sprite01_7: -139273969446823451
+      Buterfly-sprite01_8: 1002877551813615114
+      Buterfly-sprite01_9: -7383384613135972839
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

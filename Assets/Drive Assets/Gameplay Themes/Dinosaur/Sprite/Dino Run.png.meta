@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: d268624c5b2d87e428d9204520dc1b6c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dino Run0001
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1272
+        width: 380
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5065789, y: 0.51432294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c2dfea882cd547bb53e198b72e9b5
+      internalID: -15304306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0002
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1272
+        width: 380
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5065789, y: 0.51432294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625d004dc4a96be4e89bf27b920724db
+      internalID: -859540467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0003
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1272
+        width: 380
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5065789, y: 0.51432294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee794bee1658847997f5572b9f35b5
+      internalID: 1823148439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1262
+        width: 378
+        height: 389
+      alignment: 9
+      pivot: {x: 0.50396824, y: 0.50771207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b07a556f139800488c43c33967fb958
+      internalID: -1027768677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1262
+        width: 378
+        height: 389
+      alignment: 9
+      pivot: {x: 0.50396824, y: 0.50771207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affb33ce2bdeb9b4a9b7d90c18240769
+      internalID: 543768659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1262
+        width: 378
+        height: 389
+      alignment: 9
+      pivot: {x: 0.50396824, y: 0.50771207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aec10bb1f798f4c8c791b81904695e
+      internalID: 976416056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 865
+        width: 371
+        height: 395
+      alignment: 9
+      pivot: {x: 0.5134771, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa80244071c2e8408da730e0d737903
+      internalID: 1375678307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 865
+        width: 371
+        height: 395
+      alignment: 9
+      pivot: {x: 0.5134771, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d02882598d71c418a34b66e2fb7a90
+      internalID: 1140074250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 865
+        width: 371
+        height: 395
+      alignment: 9
+      pivot: {x: 0.5134771, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d2cd05d67b7b84ca3ee371309b27fe
+      internalID: 1799244976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 365
+        height: 390
+      alignment: 9
+      pivot: {x: 0.52465755, y: 0.50641024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b401defe17ad479c2aad93d99825e
+      internalID: -789810992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 365
+        height: 390
+      alignment: 9
+      pivot: {x: 0.52465755, y: 0.50641024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b221c00a59afca4c8a151849a887877
+      internalID: 53817925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 365
+        height: 390
+      alignment: 9
+      pivot: {x: 0.52465755, y: 0.50641024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7d7ab2450ef0a4faa413ecfb28a1fd
+      internalID: 26842665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0013
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 886
+        width: 377
+        height: 384
+      alignment: 9
+      pivot: {x: 0.51326257, y: 0.51432294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3044d7b0e0c08e4e9f117bffa6febc2
+      internalID: 830445520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0014
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 886
+        width: 377
+        height: 384
+      alignment: 9
+      pivot: {x: 0.51326257, y: 0.51432294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f3c7c553083f94d890c8003e00b5ca
+      internalID: 1078497070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0015
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 886
+        width: 377
+        height: 384
+      alignment: 9
+      pivot: {x: 0.51326257, y: 0.51432294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f820d19d88992c544ab379d142aca6ce
+      internalID: 498180939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0016
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 496
+        width: 368
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5258152, y: 0.5090206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656a83add45a154ba0a0f4aa20334c3
+      internalID: 21489717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0017
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 496
+        width: 368
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5258152, y: 0.5090206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceabf3ed74078e2499c63a03d4ef699d
+      internalID: 890979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0018
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 496
+        width: 368
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5258152, y: 0.5090206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bbdb3184fc88b49b264832d3f8c616
+      internalID: -1746217352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1653
+        width: 387
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50126904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540065341c07e30488556c6c4c430c12
+      internalID: -927359892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1653
+        width: 387
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50126904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842e26b20137fa7478c779964a7cf10f
+      internalID: 686921591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1653
+        width: 387
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50126904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a02d6af2be8e4784e5b455332bc29
+      internalID: -574793282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0022
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1658
+        width: 382
+        height: 389
+      alignment: 9
+      pivot: {x: 0.50654453, y: 0.50771207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f458803829443a9479692e4f6e0848fc
+      internalID: 991271076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0023
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1658
+        width: 382
+        height: 389
+      alignment: 9
+      pivot: {x: 0.50654453, y: 0.50771207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc55e7182386e047ba29bff949dec32
+      internalID: 1955647631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Run0024
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1658
+        width: 382
+        height: 389
+      alignment: 9
+      pivot: {x: 0.50654453, y: 0.50771207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dea137a1d04e674e8b07e8bf608c254
+      internalID: 1476438418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d350df0d6b162e4fa3f34fa17929276
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dino Run0001: -15304306
+      Dino Run0002: -859540467
+      Dino Run0003: 1823148439
+      Dino Run0004: -1027768677
+      Dino Run0005: 543768659
+      Dino Run0006: 976416056
+      Dino Run0007: 1375678307
+      Dino Run0008: 1140074250
+      Dino Run0009: 1799244976
+      Dino Run0010: -789810992
+      Dino Run0011: 53817925
+      Dino Run0012: 26842665
+      Dino Run0013: 830445520
+      Dino Run0014: 1078497070
+      Dino Run0015: 498180939
+      Dino Run0016: 21489717
+      Dino Run0017: 890979
+      Dino Run0018: -1746217352
+      Dino Run0019: -927359892
+      Dino Run0020: 686921591
+      Dino Run0021: -574793282
+      Dino Run0022: 991271076
+      Dino Run0023: 1955647631
+      Dino Run0024: 1476438418
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

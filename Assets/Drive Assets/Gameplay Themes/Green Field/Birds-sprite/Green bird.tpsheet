@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a371529bc143125269c74b9acd82a048:420dbda15fac1924d15718da7f36c2ad:0d614ed08f05a8af1c999a5e97efa77f$
+#
+:format=40300
+:texture=Green bird.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Green Bird0001;0;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0002;0;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0003;0;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0004;0;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0005;515;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0006;515;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0007;515;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0008;515;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0009;1030;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0010;1030;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0011;1030;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0012;1030;650;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0013;0;276;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0014;0;276;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0015;0;276;515;374; 0.5;0.5; 0;0;0;0
+Green Bird0016;0;276;515;374; 0.5;0.5; 0;0;0;0

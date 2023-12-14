@@ -1,0 +1,45 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:dbda38dc6f16d2209cb1c5d4ae07294e:bf9a58981d7db51e8b1ef964788f3bc7:f53566f3e823a37036d5b75442c2a550$
+#
+:format=40300
+:texture=Macaw.png
+:size=4096x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Macaw Blue0001;0;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0002;0;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0003;0;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0004;554;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0005;554;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0006;554;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0007;1108;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0008;1108;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0009;1108;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0010;1662;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0011;1662;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0012;1662;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0013;2216;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0014;2216;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0015;2216;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0016;2770;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0017;2770;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0018;2770;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0019;3324;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0020;3324;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0021;3324;1320;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0022;0;592;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0023;0;592;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0024;0;592;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0025;554;592;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0026;554;592;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0027;554;592;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0028;1108;592;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0029;1108;592;554;728; 0.5;0.5; 0;0;0;0
+Macaw Blue0030;1108;592;554;728; 0.5;0.5; 0;0;0;0

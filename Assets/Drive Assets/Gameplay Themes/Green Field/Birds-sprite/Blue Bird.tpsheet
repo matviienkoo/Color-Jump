@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c3c946af4454c560c754682fefcba0e2:d05733187b031a6745901f6d233ff42b:3be31713fcb45a6dabf855d0dffc7b03$
+#
+:format=40300
+:texture=Blue Bird.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Blue Bird0001;0;626;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0002;0;626;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0003;0;626;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0004;0;626;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0005;511;626;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0006;511;626;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0007;511;626;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0008;511;626;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0009;0;228;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0010;0;228;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0011;0;228;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0012;0;228;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0013;511;228;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0014;511;228;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0015;511;228;511;398; 0.5;0.5; 0;0;0;0
+Blue Bird0016;511;228;511;398; 0.5;0.5; 0;0;0;0

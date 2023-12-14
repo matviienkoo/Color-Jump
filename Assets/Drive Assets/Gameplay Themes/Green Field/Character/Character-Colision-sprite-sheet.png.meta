@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: 9e3a1da0430554c5594251160f64ef21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2062683314262504490
+    second: Character-Colision-sprite-sheet_0
+  - first:
+      213: 6072093984194046666
+    second: Character-Colision-sprite-sheet_1
+  - first:
+      213: -2126927666042758742
+    second: Character-Colision-sprite-sheet_2
+  - first:
+      213: -8290055949882286154
+    second: Character-Colision-sprite-sheet_3
+  - first:
+      213: 1161889435654927802
+    second: Character-Colision-sprite-sheet_4
+  - first:
+      213: -5248165946753831653
+    second: Character-Colision-sprite-sheet_5
+  - first:
+      213: -3626283881698381526
+    second: Character-Colision-sprite-sheet_6
+  - first:
+      213: 4361998583538923970
+    second: Character-Colision-sprite-sheet_7
+  - first:
+      213: 1456190750157946076
+    second: Character-Colision-sprite-sheet_8
+  - first:
+      213: 2801372024518646957
+    second: Character-Colision-sprite-sheet_9
+  - first:
+      213: 5387043499131210139
+    second: Character-Colision-sprite-sheet_10
+  - first:
+      213: 4854005576766316445
+    second: Character-Colision-sprite-sheet_11
+  - first:
+      213: -4623758617586094883
+    second: Character-Colision-sprite-sheet_12
+  - first:
+      213: -8642994865506501371
+    second: Character-Colision-sprite-sheet_13
+  - first:
+      213: -8724695957429239728
+    second: Character-Colision-sprite-sheet_14
+  - first:
+      213: 8117009502544341604
+    second: Character-Colision-sprite-sheet_15
+  - first:
+      213: 5190196735115188347
+    second: Character-Colision-sprite-sheet_16
+  - first:
+      213: 8645554376331967366
+    second: Character-Colision-sprite-sheet_17
+  - first:
+      213: 5152477678241998061
+    second: Character-Colision-sprite-sheet_18
+  - first:
+      213: -6911357521475178997
+    second: Character-Colision-sprite-sheet_19
+  - first:
+      213: -8250787667605232445
+    second: Character-Colision-sprite-sheet_20
+  - first:
+      213: -7258817425201877035
+    second: Character-Colision-sprite-sheet_21
+  - first:
+      213: 8808033206701759071
+    second: Character-Colision-sprite-sheet_22
+  - first:
+      213: 1307211758540175374
+    second: Character-Colision-sprite-sheet_23
+  - first:
+      213: -6945558905133652374
+    second: Character-Colision-sprite-sheet_24
+  - first:
+      213: 8682367122025929145
+    second: Character-Colision-sprite-sheet_25
+  - first:
+      213: -7855072330992685863
+    second: Character-Colision-sprite-sheet_26
+  - first:
+      213: -6462055933544773570
+    second: Character-Colision-sprite-sheet_27
+  - first:
+      213: 4957513857603642774
+    second: Character-Colision-sprite-sheet_28
+  - first:
+      213: 4686946565312286547
+    second: Character-Colision-sprite-sheet_29
+  - first:
+      213: 1961025762765967702
+    second: Character-Colision-sprite-sheet_30
+  - first:
+      213: 1191894184784222635
+    second: Character-Colision-sprite-sheet_31
+  - first:
+      213: -8220799569679541296
+    second: Character-Colision-sprite-sheet_32
+  - first:
+      213: 975401989379973888
+    second: Character-Colision-sprite-sheet_33
+  - first:
+      213: -6363271589916405476
+    second: Character-Colision-sprite-sheet_34
+  - first:
+      213: 2567063784403062396
+    second: Character-Colision-sprite-sheet_35
+  - first:
+      213: 7332676285002586056
+    second: Character-Colision-sprite-sheet_36
+  - first:
+      213: 7135188002936460288
+    second: Character-Colision-sprite-sheet_37
+  - first:
+      213: 1921872965386842522
+    second: Character-Colision-sprite-sheet_38
+  - first:
+      213: 8421305147465369222
+    second: Character-Colision-sprite-sheet_39
+  - first:
+      213: -233162493654612672
+    second: Character-Colision-sprite-sheet_40
+  - first:
+      213: 8078578649503119622
+    second: Character-Colision-sprite-sheet_41
+  - first:
+      213: -4323453261222506970
+    second: Character-Colision-sprite-sheet_42
+  - first:
+      213: 1541368770335021271
+    second: Character-Colision-sprite-sheet_43
+  - first:
+      213: 9216555182041901683
+    second: Character-Colision-sprite-sheet_44
+  - first:
+      213: 6504635501848334809
+    second: Character-Colision-sprite-sheet_45
+  - first:
+      213: 2795399899641928069
+    second: Character-Colision-sprite-sheet_46
+  - first:
+      213: 6180942381310050441
+    second: Character-Colision-sprite-sheet_47
+  - first:
+      213: 2047945838153184094
+    second: Character-Colision-sprite-sheet_48
+  - first:
+      213: 1834663670771310996
+    second: Character-Colision-sprite-sheet_49
+  - first:
+      213: -7897742707039266389
+    second: Character-Colision-sprite-sheet_50
+  - first:
+      213: -7550467000302465059
+    second: Character-Colision-sprite-sheet_51
+  - first:
+      213: -7716530769208829226
+    second: Character-Colision-sprite-sheet_52
+  - first:
+      213: -6149746032580819182
+    second: Character-Colision-sprite-sheet_53
+  - first:
+      213: -7949537642601896419
+    second: Character-Colision-sprite-sheet_54
+  - first:
+      213: 7825085732679579701
+    second: Character-Colision-sprite-sheet_55
+  - first:
+      213: -265947889041428936
+    second: Character-Colision-sprite-sheet_56
+  - first:
+      213: -4076306103503254492
+    second: Character-Colision-sprite-sheet_57
+  - first:
+      213: -6200761759205351286
+    second: Character-Colision-sprite-sheet_58
+  - first:
+      213: -2186968146433984416
+    second: Character-Colision-sprite-sheet_59
+  - first:
+      213: -8567897187900295993
+    second: Character-Colision-sprite-sheet_60
+  - first:
+      213: 4082970809380356485
+    second: Character-Colision-sprite-sheet_61
+  - first:
+      213: -2101741111117534945
+    second: Character-Colision-sprite-sheet_62
+  - first:
+      213: 4694850960043652353
+    second: Character-Colision-sprite-sheet_63
+  - first:
+      213: 7108804436782789831
+    second: Character-Colision-sprite-sheet_64
+  - first:
+      213: 5222741930160966597
+    second: Character-Colision-sprite-sheet_65
+  - first:
+      213: -4754144260356024902
+    second: Character-Colision-sprite-sheet_66
+  - first:
+      213: 7191597928264706787
+    second: Character-Colision-sprite-sheet_67
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character-Colision-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24fdb6bb8f10ac10800000000000000
+      internalID: 2062683314262504490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-Colision-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 112
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2caaae49644450800000000000000
+      internalID: 6072093984194046666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-Colision-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 128
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa912928e82ab72e0800000000000000
+      internalID: -2126927666042758742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-Colision-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 168
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf1723490ec3fc80800000000000000
+      internalID: -8290055949882286154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-Colision-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 179
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5bd78294cdf1010800000000000000
+      internalID: 1161889435654927802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-Colision-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 0
+        width: 166
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1daf6d90e4ca27b0800000000000000
+      internalID: -5248165946753831653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-Colision-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0
+        width: 186
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b4a0c50adcadc0800000000000000
+      internalID: -3626283881698381526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-Colision-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 0
+        width: 190
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c93892d99ee88c30800000000000000
+      internalID: 4361998583538923970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character-Colision-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 0
+        width: 169
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcbf54a5cd653410800000000000000
+      internalID: 1456190750157946076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Character-Colision-sprite-sheet_0: 2062683314262504490
+      Character-Colision-sprite-sheet_1: 6072093984194046666
+      Character-Colision-sprite-sheet_2: -2126927666042758742
+      Character-Colision-sprite-sheet_3: -8290055949882286154
+      Character-Colision-sprite-sheet_4: 1161889435654927802
+      Character-Colision-sprite-sheet_5: -5248165946753831653
+      Character-Colision-sprite-sheet_6: -3626283881698381526
+      Character-Colision-sprite-sheet_7: 4361998583538923970
+      Character-Colision-sprite-sheet_8: 1456190750157946076
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

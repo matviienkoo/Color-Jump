@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: 3dbff3e9a4245dd45bb321eff2d5fbe8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Worm Running0001
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 56
+        width: 240
+        height: 72
+      alignment: 9
+      pivot: {x: 1.2020833, y: 2.3263888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dc401da948bbb43849a11525abd8e1
+      internalID: -2136582283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0002
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 56
+        width: 240
+        height: 72
+      alignment: 9
+      pivot: {x: 1.2020833, y: 2.3263888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9e282f00115584eb05f91e8c8256a3
+      internalID: -1141187547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0003
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 56
+        width: 240
+        height: 72
+      alignment: 9
+      pivot: {x: 1.2020833, y: 2.3263888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7206b4ff3eabf479b05b4604e2ebc3
+      internalID: -1889866604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0004
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 56
+        width: 240
+        height: 72
+      alignment: 9
+      pivot: {x: 1.2020833, y: 2.3263888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e113a21083da24345af3cdcb065b9ddd
+      internalID: -1340905785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0005
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 528
+        width: 239
+        height: 189
+      alignment: 9
+      pivot: {x: 1.207113, y: 0.8862434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33853e5fedb9888428ee7eab44906350
+      internalID: 965441295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0006
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 528
+        width: 239
+        height: 189
+      alignment: 9
+      pivot: {x: 1.207113, y: 0.8862434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313d74078aae1514a9cc5f5a69c94e64
+      internalID: -1795550045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0007
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 528
+        width: 239
+        height: 189
+      alignment: 9
+      pivot: {x: 1.207113, y: 0.8862434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81758eac6b313345aa9770d9f3eb67e
+      internalID: 534295790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0008
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 528
+        width: 239
+        height: 189
+      alignment: 9
+      pivot: {x: 1.207113, y: 0.8862434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077b4fb77e67d12479df52037d66e6c5
+      internalID: -610243685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0009
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 480
+        width: 274
+        height: 237
+      alignment: 9
+      pivot: {x: 1.0529197, y: 0.70675105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f67d5b29365e2459a0d8e947049dbe
+      internalID: 1675585387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0010
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 480
+        width: 274
+        height: 237
+      alignment: 9
+      pivot: {x: 1.0529197, y: 0.70675105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365080836e1143744a709c6eef569f5d
+      internalID: -948579253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0011
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 480
+        width: 274
+        height: 237
+      alignment: 9
+      pivot: {x: 1.0529197, y: 0.70675105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01394df24d775241a12860bfd9ab14b
+      internalID: -1453529373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0012
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 480
+        width: 274
+        height: 237
+      alignment: 9
+      pivot: {x: 1.0529197, y: 0.70675105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75019aff9180043b5845728d8d5662
+      internalID: -1594059221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 345
+        height: 289
+      alignment: 9
+      pivot: {x: 0.8362319, y: 0.5795848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f9a312eed6cc6498035c369e63fbd9
+      internalID: -1282038632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 345
+        height: 289
+      alignment: 9
+      pivot: {x: 0.8362319, y: 0.5795848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673ae1068037ff543a12e019db47e862
+      internalID: 111686660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 345
+        height: 289
+      alignment: 9
+      pivot: {x: 0.8362319, y: 0.5795848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceffedf8b6dc77d419747b0163e3e687
+      internalID: -240797116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 345
+        height: 289
+      alignment: 9
+      pivot: {x: 0.8362319, y: 0.5795848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8896cc43b6f7704c9a605b6a8bcaa82
+      internalID: 1738785206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0017
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 719
+        width: 393
+        height: 335
+      alignment: 9
+      pivot: {x: 0.7340967, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad2f2fdaf6837c45b34bda92f2cf8d6
+      internalID: -934112767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0018
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 719
+        width: 393
+        height: 335
+      alignment: 9
+      pivot: {x: 0.7340967, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01c71c9a1172846b62299991297ca9
+      internalID: -379985391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0019
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 719
+        width: 393
+        height: 335
+      alignment: 9
+      pivot: {x: 0.7340967, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d3eb0c3b550874da8cc26ef576670c
+      internalID: 129257687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0020
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 719
+        width: 393
+        height: 335
+      alignment: 9
+      pivot: {x: 0.7340967, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b03dd18d72217f4d8e9cf9271aef54c
+      internalID: 1477406187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0021
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1385
+        width: 470
+        height: 329
+      alignment: 9
+      pivot: {x: 0.6138298, y: 0.50911856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee7cb63f96519439ef6d38913941d0
+      internalID: -666615382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0022
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1385
+        width: 470
+        height: 329
+      alignment: 9
+      pivot: {x: 0.6138298, y: 0.50911856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5222a7ef883ee41a2f1761138badff
+      internalID: 1157986570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0023
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1385
+        width: 470
+        height: 329
+      alignment: 9
+      pivot: {x: 0.6138298, y: 0.50911856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac56b159015e9a4e99d96f7365c4b12
+      internalID: -194427477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0024
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1385
+        width: 470
+        height: 329
+      alignment: 9
+      pivot: {x: 0.6138298, y: 0.50911856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babd8ed9d0984564481fad2e2b215e0d
+      internalID: -7757164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1052
+        width: 524
+        height: 331
+      alignment: 9
+      pivot: {x: 0.5505725, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672093df209cfa8488fdee4850e0edaf
+      internalID: 91284337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1052
+        width: 524
+        height: 331
+      alignment: 9
+      pivot: {x: 0.5505725, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27411c0c19276f48a33cf2e8b870fea
+      internalID: 687353486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1052
+        width: 524
+        height: 331
+      alignment: 9
+      pivot: {x: 0.5505725, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d2816ce93815649985d661a02d5997
+      internalID: -323983792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1052
+        width: 524
+        height: 331
+      alignment: 9
+      pivot: {x: 0.5505725, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdd380120c36e04389a3e2a77577d8c
+      internalID: -99083217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1385
+        width: 532
+        height: 331
+      alignment: 9
+      pivot: {x: 0.54229325, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e27e884e522ee49848edc6ad42b4a4
+      internalID: 1607730187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1385
+        width: 532
+        height: 331
+      alignment: 9
+      pivot: {x: 0.54229325, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4aaf4203cd32d49b4221161f652010
+      internalID: -259060321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1385
+        width: 532
+        height: 331
+      alignment: 9
+      pivot: {x: 0.54229325, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc69230b35cce14fa8210884cef283d
+      internalID: -140094478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1385
+        width: 532
+        height: 331
+      alignment: 9
+      pivot: {x: 0.54229325, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55bb6163b3c87643908d9933270ff35
+      internalID: 122623998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1718
+        width: 558
+        height: 329
+      alignment: 9
+      pivot: {x: 0.5170251, y: 0.50911856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06f58b3f20eaea4691bba4029a67e68
+      internalID: 509943340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1718
+        width: 558
+        height: 329
+      alignment: 9
+      pivot: {x: 0.5170251, y: 0.50911856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb269831dd19354ebea94f4c19086b8
+      internalID: -250936990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1718
+        width: 558
+        height: 329
+      alignment: 9
+      pivot: {x: 0.5170251, y: 0.50911856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf050172b7f6ff4d994a42dc3166378
+      internalID: -845768983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1718
+        width: 558
+        height: 329
+      alignment: 9
+      pivot: {x: 0.5170251, y: 0.50911856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb881aa2d654fb84fafbbb00f02cfe5c
+      internalID: 1075548399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0037
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 511
+        height: 331
+      alignment: 9
+      pivot: {x: 0.47260273, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834ff345f2581d14e8b136dfeda50b6c
+      internalID: 1487681951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 511
+        height: 331
+      alignment: 9
+      pivot: {x: 0.47260273, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548c48494d7811d4bb0bcf7e750aba3c
+      internalID: -537268043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0039
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 511
+        height: 331
+      alignment: 9
+      pivot: {x: 0.47260273, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c404cc6828ca144a0be64bcfb0a466
+      internalID: 690582773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 511
+        height: 331
+      alignment: 9
+      pivot: {x: 0.47260273, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f393047e376fd04592eb1d186318ffc
+      internalID: -425512647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0041
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1056
+        width: 493
+        height: 327
+      alignment: 9
+      pivot: {x: 0.44726166, y: 0.5122324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb92aebe379351345ac8cdfb8761596d
+      internalID: -589473370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0042
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1056
+        width: 493
+        height: 327
+      alignment: 9
+      pivot: {x: 0.44726166, y: 0.5122324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6693d4b2b29a4744e8e8924e7d98ce46
+      internalID: 5536852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0043
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1056
+        width: 493
+        height: 327
+      alignment: 9
+      pivot: {x: 0.44726166, y: 0.5122324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d135edb6731184cbc0e0f745b49d2b
+      internalID: 1169072052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0044
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1056
+        width: 493
+        height: 327
+      alignment: 9
+      pivot: {x: 0.44726166, y: 0.5122324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcc055999aa91f40b7ea5134dc907a0
+      internalID: 1015536896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0045
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1716
+        width: 415
+        height: 331
+      alignment: 9
+      pivot: {x: 0.32650602, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8389118707a1f419edbf9f277396da
+      internalID: 759353731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0046
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1716
+        width: 415
+        height: 331
+      alignment: 9
+      pivot: {x: 0.32650602, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1245f7015c13653459f76d1d4f03f23a
+      internalID: -1157651763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0047
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1716
+        width: 415
+        height: 331
+      alignment: 9
+      pivot: {x: 0.32650602, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd57c96f16cbd04fa74d32e937e555f
+      internalID: -822454468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0048
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1716
+        width: 415
+        height: 331
+      alignment: 9
+      pivot: {x: 0.32650602, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f79dbe11b6ded4f8379ad79849031c
+      internalID: -1068989521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0049
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 251
+        height: 296
+      alignment: 9
+      pivot: {x: -0.1494024, y: 0.5658784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecb85b03558600458d6ff483862b90f
+      internalID: -1630367511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0050
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 251
+        height: 296
+      alignment: 9
+      pivot: {x: -0.1494024, y: 0.5658784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd47ef66fe45c604781d38b551e81f3b
+      internalID: -1864871782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0051
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 251
+        height: 296
+      alignment: 9
+      pivot: {x: -0.1494024, y: 0.5658784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cda2f33e8c50a14b838796a67e3d49d
+      internalID: 833885359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0052
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 251
+        height: 296
+      alignment: 9
+      pivot: {x: -0.1494024, y: 0.5658784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5e2fd6075d55845ba80c66a7f1e346
+      internalID: 633703141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0053
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 253
+        width: 227
+        height: 225
+      alignment: 9
+      pivot: {x: -0.18281938, y: 0.74444443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4efe9ba4c44236429da4bcfdcd0046b
+      internalID: 489504993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0054
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 253
+        width: 227
+        height: 225
+      alignment: 9
+      pivot: {x: -0.18281938, y: 0.74444443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db486ba970d5c1b4b9785ab49019790d
+      internalID: 466705648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0055
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 253
+        width: 227
+        height: 225
+      alignment: 9
+      pivot: {x: -0.18281938, y: 0.74444443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cae0848abd01448a4eeb81f3f54e97
+      internalID: -1080246133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0056
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 253
+        width: 227
+        height: 225
+      alignment: 9
+      pivot: {x: -0.18281938, y: 0.74444443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9b677bf3e9094c8649c3e91a3cd34
+      internalID: -955408338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0057
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 555
+        width: 216
+        height: 162
+      alignment: 9
+      pivot: {x: -0.24768518, y: 1.0339506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e37b570759904d83af2131f1ae783
+      internalID: -1252032252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0058
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 555
+        width: 216
+        height: 162
+      alignment: 9
+      pivot: {x: -0.24768518, y: 1.0339506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a722c531b2967b94f8118657e25557eb
+      internalID: -657662228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0059
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 555
+        width: 216
+        height: 162
+      alignment: 9
+      pivot: {x: -0.24768518, y: 1.0339506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f8cce001dc4642a51e1fa1a5c3495
+      internalID: 429600427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0060
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 555
+        width: 216
+        height: 162
+      alignment: 9
+      pivot: {x: -0.24768518, y: 1.0339506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab76888a5b7d14cb8eb1313fdba878
+      internalID: 347098470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0061
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 235
+        height: 97
+      alignment: 9
+      pivot: {x: -0.16382979, y: 1.7268041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ea70baf7738a94b8f886115a4ad184
+      internalID: 778403797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0062
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 235
+        height: 97
+      alignment: 9
+      pivot: {x: -0.16382979, y: 1.7268041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312763e11b1a7284fb392277ccde73c4
+      internalID: -818425423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0063
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 235
+        height: 97
+      alignment: 9
+      pivot: {x: -0.16382979, y: 1.7268041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ac348a5548c945846d51575c95885
+      internalID: -321930134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm Running0064
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 235
+        height: 97
+      alignment: 9
+      pivot: {x: -0.16382979, y: 1.7268041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58e3fa8e3f7ff14782f5fd53022eba1
+      internalID: -1296450251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Worm Running0001: -2136582283
+      Worm Running0002: -1141187547
+      Worm Running0003: -1889866604
+      Worm Running0004: -1340905785
+      Worm Running0005: 965441295
+      Worm Running0006: -1795550045
+      Worm Running0007: 534295790
+      Worm Running0008: -610243685
+      Worm Running0009: 1675585387
+      Worm Running0010: -948579253
+      Worm Running0011: -1453529373
+      Worm Running0012: -1594059221
+      Worm Running0013: -1282038632
+      Worm Running0014: 111686660
+      Worm Running0015: -240797116
+      Worm Running0016: 1738785206
+      Worm Running0017: -934112767
+      Worm Running0018: -379985391
+      Worm Running0019: 129257687
+      Worm Running0020: 1477406187
+      Worm Running0021: -666615382
+      Worm Running0022: 1157986570
+      Worm Running0023: -194427477
+      Worm Running0024: -7757164
+      Worm Running0025: 91284337
+      Worm Running0026: 687353486
+      Worm Running0027: -323983792
+      Worm Running0028: -99083217
+      Worm Running0029: 1607730187
+      Worm Running0030: -259060321
+      Worm Running0031: -140094478
+      Worm Running0032: 122623998
+      Worm Running0033: 509943340
+      Worm Running0034: -250936990
+      Worm Running0035: -845768983
+      Worm Running0036: 1075548399
+      Worm Running0037: 1487681951
+      Worm Running0038: -537268043
+      Worm Running0039: 690582773
+      Worm Running0040: -425512647
+      Worm Running0041: -589473370
+      Worm Running0042: 5536852
+      Worm Running0043: 1169072052
+      Worm Running0044: 1015536896
+      Worm Running0045: 759353731
+      Worm Running0046: -1157651763
+      Worm Running0047: -822454468
+      Worm Running0048: -1068989521
+      Worm Running0049: -1630367511
+      Worm Running0050: -1864871782
+      Worm Running0051: 833885359
+      Worm Running0052: 633703141
+      Worm Running0053: 489504993
+      Worm Running0054: 466705648
+      Worm Running0055: -1080246133
+      Worm Running0056: -955408338
+      Worm Running0057: -1252032252
+      Worm Running0058: -657662228
+      Worm Running0059: 429600427
+      Worm Running0060: 347098470
+      Worm Running0061: 778403797
+      Worm Running0062: -818425423
+      Worm Running0063: -321930134
+      Worm Running0064: -1296450251
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

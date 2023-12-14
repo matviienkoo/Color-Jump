@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 1b0149959bc39334fbc9feeb07d3a8e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Squirrel Nut0001
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1517
+        width: 539
+        height: 530
+      alignment: 9
+      pivot: {x: 0.19202226, y: 0.5801887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518a29834274dee4a9b804890a06983d
+      internalID: 1624625679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0002
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 925
+        width: 702
+        height: 540
+      alignment: 9
+      pivot: {x: 0.37962964, y: 0.5509259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d8cb53e0a152b43b1774e9310a6f5c
+      internalID: 2021543121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0003
+      rect:
+        serializedVersion: 2
+        x: 6984
+        y: 1516
+        width: 628
+        height: 531
+      alignment: 9
+      pivot: {x: 0.30652866, y: 0.56026363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e227510f9c5f4eb2142fede64f9e3
+      internalID: 370161646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0004
+      rect:
+        serializedVersion: 2
+        x: 6984
+        y: 1516
+        width: 628
+        height: 531
+      alignment: 9
+      pivot: {x: 0.30652866, y: 0.56026363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c758dc85324ef42a18d7e9c855d25b
+      internalID: -1289326558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0005
+      rect:
+        serializedVersion: 2
+        x: 6984
+        y: 1516
+        width: 628
+        height: 531
+      alignment: 9
+      pivot: {x: 0.30652866, y: 0.56026363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe5cac2cd94e8d44990d4e0e37778f4
+      internalID: -1374720926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0006
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 963
+        width: 769
+        height: 502
+      alignment: 9
+      pivot: {x: 0.43368012, y: 0.2878486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab10db052cf67a540be4b78e964024f5
+      internalID: 1721414441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 572
+        width: 866
+        height: 351
+      alignment: 9
+      pivot: {x: 0.49711317, y: 0.2008547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441210e35f26102409342e80741240a5
+      internalID: -1731512514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0008
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 646
+        width: 871
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5, y: 0.066787004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2935ed96dfdd243b2febcf61f2f5f7
+      internalID: -1431965062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0009
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 661
+        width: 866
+        height: 262
+      alignment: 9
+      pivot: {x: 0.49711317, y: 0.1851145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c29c5011e00ba3478890e422a4ec6c6
+      internalID: -1541530171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0010
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 1012
+        width: 742
+        height: 453
+      alignment: 9
+      pivot: {x: 0.41307276, y: 0.36975718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c5eb279b78b584cab7a731af1e5660
+      internalID: -1483293948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0011
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 1008
+        width: 734
+        height: 457
+      alignment: 9
+      pivot: {x: 0.40667576, y: 0.54595184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80534b384a8efa41b9ad565f5718767
+      internalID: 338940468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0012
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 1529
+        width: 624
+        height: 518
+      alignment: 9
+      pivot: {x: 0.30208334, y: 0.5260618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac0e0b89599bfa45abc3a656f8c133b
+      internalID: 1543480536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0013
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1467
+        width: 548
+        height: 580
+      alignment: 9
+      pivot: {x: 0.20529197, y: 0.6163793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588221b7223a1f549a8c59c18c3b49ef
+      internalID: -1600679266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0014
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 1545
+        width: 622
+        height: 502
+      alignment: 9
+      pivot: {x: 0.29983923, y: 0.62250996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b8f83f2051644aab13d61062317f8
+      internalID: -126399275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0015
+      rect:
+        serializedVersion: 2
+        x: 4970
+        y: 930
+        width: 774
+        height: 535
+      alignment: 9
+      pivot: {x: 0.4373385, y: 0.45514017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaf77cdb43f1b041a7c36bcdfc49463
+      internalID: 2143697636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0016
+      rect:
+        serializedVersion: 2
+        x: 6610
+        y: 1112
+        width: 864
+        height: 353
+      alignment: 9
+      pivot: {x: 0.49594906, y: 0.31303117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d394e5572aa6043ae244d7ec70b322
+      internalID: -394357521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0017
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 644
+        width: 871
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15591398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a5279a047d6514d8001863dad28cd8
+      internalID: -614029683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0018
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 1156
+        width: 862
+        height: 309
+      alignment: 9
+      pivot: {x: 0.4947796, y: 0.41909385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5228d9319598353449ec00962c94f414
+      internalID: -162780642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0019
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1010
+        width: 731
+        height: 455
+      alignment: 9
+      pivot: {x: 0.40424076, y: 0.54395604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091e5e0683c7b924694209bdf3c7cf00
+      internalID: -777489031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0020
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 1580
+        width: 582
+        height: 467
+      alignment: 9
+      pivot: {x: 0.25171822, y: 0.6092077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4793e0829b4c4254183ba27fdecfe85e
+      internalID: 786472117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0021
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1594
+        width: 403
+        height: 453
+      alignment: 9
+      pivot: {x: -0.08064516, y: 0.6523179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3bbbb30190eac4c8a7270f5e892eb3
+      internalID: -1553780395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0022
+      rect:
+        serializedVersion: 2
+        x: 4572
+        y: 1671
+        width: 576
+        height: 376
+      alignment: 9
+      pivot: {x: 0.2439236, y: 0.77792555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895f8426b324a794198f4f2f7a94f836
+      internalID: 1129113241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1188
+        width: 638
+        height: 277
+      alignment: 9
+      pivot: {x: 0.31739813, y: 1.0415163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02943e93046287a41b6aa21a760b16fc
+      internalID: -1137414790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0024
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1715
+        width: 564
+        height: 332
+      alignment: 9
+      pivot: {x: 0.22783688, y: 0.87198794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f5e982421e25468301f441dc36c74
+      internalID: -1399066244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0025
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 1648
+        width: 555
+        height: 399
+      alignment: 9
+      pivot: {x: 0.21531531, y: 0.7230576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55e40adb1294d84a9f4c68c5ff96c3c
+      internalID: -284181418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1568
+        width: 390
+        height: 479
+      alignment: 9
+      pivot: {x: -0.11666667, y: 0.6022965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e9354136e66149a607552997edf17
+      internalID: 1388815681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0027
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1605
+        width: 435
+        height: 442
+      alignment: 9
+      pivot: {x: -0.0011494253, y: 0.6504525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ad78805fbf61c4b98a16cdaf16d0cc
+      internalID: 1162291439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0028
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1648
+        width: 555
+        height: 399
+      alignment: 9
+      pivot: {x: 0.21531531, y: 0.7230576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7679b038d38f4e438587340d804e341
+      internalID: 1109572332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0029
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 1715
+        width: 564
+        height: 332
+      alignment: 9
+      pivot: {x: 0.22783688, y: 0.87198794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7d5a33775340a48a9eff5a2f25759e
+      internalID: -2007762045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1188
+        width: 638
+        height: 277
+      alignment: 9
+      pivot: {x: 0.31739813, y: 1.0415163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c2f7d689c0cb54f92036bc3fecc7a9
+      internalID: 59311888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1188
+        width: 638
+        height: 277
+      alignment: 9
+      pivot: {x: 0.31739813, y: 1.0415163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9b53e3d4c6b85478f261bd58674036
+      internalID: -72375739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1188
+        width: 638
+        height: 277
+      alignment: 9
+      pivot: {x: 0.31739813, y: 1.0415163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8294bf4f308be244ca228a40d8154b19
+      internalID: 1984005962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1188
+        width: 638
+        height: 277
+      alignment: 9
+      pivot: {x: 0.31739813, y: 1.0415163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41b212488ee9eb4f986c0bcc8e836ef
+      internalID: 323292124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1188
+        width: 638
+        height: 277
+      alignment: 9
+      pivot: {x: 0.31739813, y: 1.0415163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e95f705d5712548b7f74d7bcb345f8
+      internalID: -1368909112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1188
+        width: 638
+        height: 277
+      alignment: 9
+      pivot: {x: 0.31739813, y: 1.0415163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd25260f7a813a46b2b652801b308e1
+      internalID: 706973388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0036
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1715
+        width: 564
+        height: 332
+      alignment: 9
+      pivot: {x: 0.22783688, y: 0.87198794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab682fdeb2583b74f9a574eff6a08da8
+      internalID: 1675313085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0037
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 1648
+        width: 555
+        height: 399
+      alignment: 9
+      pivot: {x: 0.21531531, y: 0.7230576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b12652b3579e24794a78f0ddc7f494
+      internalID: -2027049889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1568
+        width: 390
+        height: 479
+      alignment: 9
+      pivot: {x: -0.11666667, y: 0.6022965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b77b6ddb52c334fba36afa0a0a2f83
+      internalID: -354958764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0039
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1605
+        width: 435
+        height: 442
+      alignment: 9
+      pivot: {x: -0.0011494253, y: 0.6504525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da35db4a8bfd1a4f9691fe4fcfd3672
+      internalID: -425624831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0040
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1648
+        width: 555
+        height: 399
+      alignment: 9
+      pivot: {x: 0.21531531, y: 0.7230576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d6614a803b906429bc01a48c88ef04
+      internalID: -81024920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0041
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 1715
+        width: 564
+        height: 332
+      alignment: 9
+      pivot: {x: 0.22783688, y: 0.87198794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fa523aa064ad541aa6c2fb7c3eab6c
+      internalID: 526850479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0042
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cf53be7cb87fd42b05dfc4bc7e59b6
+      internalID: -525960076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0043
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b3222ab6eea1643a843e4a18e1d49e
+      internalID: 308439616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0044
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9402b7bc411434581645fab2518a8b
+      internalID: -1891681119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0045
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee43a3257c13245abab24f9318b2c8
+      internalID: -1409803896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0046
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3c144ed822b043ac383577c34b003
+      internalID: 2038626181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0047
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744d8a8a6ac82a741891b01e8d6c999a
+      internalID: 321803104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0048
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66a6a901d15730489ed2b00c6f7b6a3
+      internalID: -2135591567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0049
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1c16d3acfc37d428853ef0d8f14652
+      internalID: 1312483567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0050
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c22e5edf7cc8d468ee6659f164b564
+      internalID: -435363735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0051
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2814f68c4ca774d9369bb12de8b9d7
+      internalID: -944162285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0052
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50386e6e1e3ad1243b205116a87e0032
+      internalID: -1467026691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0053
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e78e0986bd70f4287d26dea594db2e
+      internalID: -961993566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0054
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6086d3e7cae5d43b54191b61f9d3a5
+      internalID: 604904517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0055
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a0616188000b1459ff8cb724092f0b
+      internalID: 1693172132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0056
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bbb9fdc52bc8f4d930d42d76b64f96
+      internalID: 512107887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0057
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c30275f7dc1524e903dbe759e4cef2
+      internalID: 310373333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0058
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb048ead8d78dd43b3f43f6ab59eddb
+      internalID: -1416853430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squirrel Nut0059
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 639
+        height: 281
+      alignment: 9
+      pivot: {x: 0.31846637, y: 1.0231317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98223efcd2a3004295f29247a795a1b
+      internalID: 2032088854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1d5b01f044b06244a8329f29c6b00ef3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Squirrel Nut0001: 1624625679
+      Squirrel Nut0002: 2021543121
+      Squirrel Nut0003: 370161646
+      Squirrel Nut0004: -1289326558
+      Squirrel Nut0005: -1374720926
+      Squirrel Nut0006: 1721414441
+      Squirrel Nut0007: -1731512514
+      Squirrel Nut0008: -1431965062
+      Squirrel Nut0009: -1541530171
+      Squirrel Nut0010: -1483293948
+      Squirrel Nut0011: 338940468
+      Squirrel Nut0012: 1543480536
+      Squirrel Nut0013: -1600679266
+      Squirrel Nut0014: -126399275
+      Squirrel Nut0015: 2143697636
+      Squirrel Nut0016: -394357521
+      Squirrel Nut0017: -614029683
+      Squirrel Nut0018: -162780642
+      Squirrel Nut0019: -777489031
+      Squirrel Nut0020: 786472117
+      Squirrel Nut0021: -1553780395
+      Squirrel Nut0022: 1129113241
+      Squirrel Nut0023: -1137414790
+      Squirrel Nut0024: -1399066244
+      Squirrel Nut0025: -284181418
+      Squirrel Nut0026: 1388815681
+      Squirrel Nut0027: 1162291439
+      Squirrel Nut0028: 1109572332
+      Squirrel Nut0029: -2007762045
+      Squirrel Nut0030: 59311888
+      Squirrel Nut0031: -72375739
+      Squirrel Nut0032: 1984005962
+      Squirrel Nut0033: 323292124
+      Squirrel Nut0034: -1368909112
+      Squirrel Nut0035: 706973388
+      Squirrel Nut0036: 1675313085
+      Squirrel Nut0037: -2027049889
+      Squirrel Nut0038: -354958764
+      Squirrel Nut0039: -425624831
+      Squirrel Nut0040: -81024920
+      Squirrel Nut0041: 526850479
+      Squirrel Nut0042: -525960076
+      Squirrel Nut0043: 308439616
+      Squirrel Nut0044: -1891681119
+      Squirrel Nut0045: -1409803896
+      Squirrel Nut0046: 2038626181
+      Squirrel Nut0047: 321803104
+      Squirrel Nut0048: -2135591567
+      Squirrel Nut0049: 1312483567
+      Squirrel Nut0050: -435363735
+      Squirrel Nut0051: -944162285
+      Squirrel Nut0052: -1467026691
+      Squirrel Nut0053: -961993566
+      Squirrel Nut0054: 604904517
+      Squirrel Nut0055: 1693172132
+      Squirrel Nut0056: 512107887
+      Squirrel Nut0057: 310373333
+      Squirrel Nut0058: -1416853430
+      Squirrel Nut0059: 2032088854
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

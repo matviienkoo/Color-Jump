@@ -1,0 +1,39 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:03baac89dcda3ac42e28b38faffa956c:7d5c51280b0c268a00bc97c032258160:acf9e5a2497cdd1016a5148c7d93029a$
+#
+:format=40300
+:texture=Zombi.png
+:size=4096x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Zombie Walk0001;0;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0002;0;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0003;0;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0004;581;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0005;581;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0006;581;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0007;1162;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0008;1162;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0009;1162;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0010;1743;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0011;1743;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0012;1743;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0013;2324;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0014;2324;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0015;2324;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0016;2905;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0017;2905;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0018;2905;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0019;3486;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0020;3486;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0021;3486;1212;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0022;0;376;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0023;0;376;581;836; 0.5;0.5; 0;0;0;0
+Zombie Walk0024;0;376;581;836; 0.5;0.5; 0;0;0;0
